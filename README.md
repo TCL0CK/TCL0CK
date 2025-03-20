@@ -1,4 +1,10 @@
-## Hi there 👋
+## my name is TCLOCK (thomas mccloskey)
+and i am learning about:
+- coding
+- playing and writing music
+- teaching
+- super smash brothas
+- myself °˖✧◝(⁰▿⁰)◜✧˖°
 
 <!--
 **TCL0CK/TCL0CK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
